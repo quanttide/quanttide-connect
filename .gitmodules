@@ -1,0 +1,3 @@
+[submodule "apps/qtcloud-connect"]
+	path = apps/qtcloud-connect
+	url = https://github.com/quanttide/qtcloud-connect.git
