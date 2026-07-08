@@ -7,3 +7,6 @@
 [submodule "docs/tutorial"]
 	path = docs/tutorial
 	url = https://github.com/quanttide/quanttide-tutorial-of-communication.git
+[submodule "data/intention"]
+	path = data/intention
+	url = https://github.com/quanttide/quanttide-intention-of-communication.git
