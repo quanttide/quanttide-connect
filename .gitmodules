@@ -4,3 +4,6 @@
 [submodule "data/report"]
 	path = data/report
 	url = https://github.com/quanttide/quanttide-report-of-communication.git
+[submodule "data/tutorial"]
+	path = data/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-communication.git
