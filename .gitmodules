@@ -1,3 +1,6 @@
 [submodule "apps/qtcloud-connect"]
 	path = apps/qtcloud-connect
 	url = https://github.com/quanttide/qtcloud-connect.git
+[submodule "data/report"]
+	path = data/report
+	url = https://github.com/quanttide/quanttide-report-of-communication.git
