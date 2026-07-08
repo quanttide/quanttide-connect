@@ -10,3 +10,6 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-communication.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-communication.git
