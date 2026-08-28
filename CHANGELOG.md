@@ -39,4 +39,5 @@
 - 在 `docs/specification/` 目录下增加 `AGENTS.md`（Agent工作指南）
 - 发布 `docs/specification` 子模块 v0.1.0 版本
 - 在 `packages/quanttide-connect-toolkit/packages/go/` 目录下增加 `CONTRIBUTING.md`（Go包贡献指南）
+- 在 `packages/quanttide-connect-toolkit/packages/go/` 目录下增加 Go 包代码实现
 - 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
