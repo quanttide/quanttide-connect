@@ -16,3 +16,6 @@
 - 注册子模块：`data/roadmap`（沟通管理路线图，quanttide-roadmap-of-communication-management）
 - 注册子模块：`data/brochure`（沟通管理宣传册，quanttide-brochure-of-communication-management）
 - 注册子模块：`docs/specification`（沟通管理标准，quanttide-specification-of-communication-management）
+- 在 `docs/specification/` 目录下增加 `context/index.md`（语境定义）
+- 在 `docs/specification/` 目录下增加 `medium/index.md`（媒介定义）
+- 在 `docs/specification/` 目录下增加 `content/index.md`（内容定义）
