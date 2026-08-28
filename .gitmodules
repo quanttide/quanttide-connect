@@ -3,31 +3,31 @@
 	url = https://github.com/quanttide/qtcloud-connect.git
 [submodule "data/report"]
 	path = data/report
-	url = https://github.com/quanttide/quanttide-report-of-communication.git
+	url = https://github.com/quanttide/quanttide-report-of-communication-management.git
 [submodule "docs/tutorial"]
 	path = docs/tutorial
-	url = https://github.com/quanttide/quanttide-tutorial-of-communication.git
+	url = https://github.com/quanttide/quanttide-tutorial-of-communication-management.git
 [submodule "data/intention"]
 	path = data/intention
-	url = https://github.com/quanttide/quanttide-intention-of-communication.git
+	url = https://github.com/quanttide/quanttide-intention-of-communication-management.git
 [submodule "data/journal"]
 	path = data/journal
-	url = https://github.com/quanttide/quanttide-journal-of-communication.git
+	url = https://github.com/quanttide/quanttide-journal-of-communication-management.git
 [submodule "data/profile"]
 	path = data/profile
-	url = https://github.com/quanttide/quanttide-profile-of-communication.git
+	url = https://github.com/quanttide/quanttide-profile-of-communication-management.git
 [submodule "data/insight"]
 	path = data/insight
-	url = https://github.com/quanttide/quanttide-insight-of-communication.git
+	url = https://github.com/quanttide/quanttide-insight-of-communication-management.git
 [submodule "examples/default"]
 	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-communication.git
+	url = https://github.com/quanttide/quanttide-laboratory-of-communication-management.git
 [submodule "data/context"]
 	path = data/context
-	url = https://github.com/quanttide/quanttide-context-of-communication.git
+	url = https://github.com/quanttide/quanttide-context-of-communication-management.git
 [submodule "data/roadmap"]
 	path = data/roadmap
-	url = https://github.com/quanttide/quanttide-roadmap-of-communication.git
+	url = https://github.com/quanttide/quanttide-roadmap-of-communication-management.git
 [submodule "data/brochure"]
 	path = data/brochure
-	url = https://github.com/quanttide/quanttide-brochure-of-communication.git
+	url = https://github.com/quanttide/quanttide-brochure-of-communication-management.git

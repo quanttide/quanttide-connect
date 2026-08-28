@@ -8,8 +8,8 @@
 
 | 子目录 | GitHub 仓库名 | 命名模式 |
 |--------|--------------|----------|
-| `data/` | `quanttide-{noun}-of-communication` | `quanttide-report-of-communication`, `quanttide-intention-of-communication`, `quanttide-journal-of-communication` |
-| `docs/` | `quanttide-tutorial-of-communication` |  |
+| `data/` | `quanttide-{noun}-of-communication-management` | `quanttide-report-of-communication-management`, `quanttide-intention-of-communication-management`, `quanttide-journal-of-communication-management` |
+| `docs/` | `quanttide-tutorial-of-communication-management` |  |
 | `apps/` | 独立项目名 | 如 `qtcloud-connect` |
 
 ### 初始化步骤
