@@ -46,4 +46,5 @@
 - 修改备忘状态枚举：将 `consensus` 改为 `consensual`（形容词形式）
 - 修改备忘状态枚举：将 `draft` 改为 `initial`，`open` 改为 `active`
 - 移除备忘的消息关联功能（暂时不关联消息）
+- 移除备忘定义文档中的工程实现部分
 - 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
