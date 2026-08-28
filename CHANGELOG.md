@@ -26,4 +26,5 @@
 - 修改 `docs/specification/content/consensus.md` 数据结构格式：表格改为列表
 - 修改 `docs/specification/content/consensus.md` 标题：数据结构改为领域模型
 - 在 `docs/specification/content/consensus.md` 中增加 ConsensusGraph（共识图）定义，替换 ConsensusChain
-- 在 `docs/specification/content/consensus.md` 中增加 API 设计，包括 Consensus、ConsensusRelation 和 ConsensusGraph 的 RESTful API
+- 在 `docs/specification/content/consensus.md` 中增加 API 规范，包括 Consensus、ConsensusRelation 和 ConsensusGraph 的 RESTful API
+- 修改 `docs/specification/content/consensus.md` 中 API 路径：去掉 `/api/v1` 前缀
