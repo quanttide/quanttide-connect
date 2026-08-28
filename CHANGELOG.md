@@ -49,4 +49,5 @@
 - 移除备忘定义文档中的工程实现部分
 - 在 `packages/quanttide-connect-toolkit/packages/rust/` 目录下初始化 Rust 库
 - 发布 `docs/specification` 子模块 v0.1.1 版本
+- 使用 Go 重写 `apps/qtcloud-connect/src/provider/` 目录
 - 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
