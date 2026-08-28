@@ -22,3 +22,4 @@
 - 在 `docs/specification/medium/` 目录下增加 `message.md`（消息定义）
 - 在 `docs/specification/medium/` 目录下增加 `memo.md`（备忘定义）
 - 在 `docs/specification/medium/` 目录下增加 `email.md`（邮件定义）
+- 在 `docs/specification/content/` 目录下增加 `consensus.md`（共识定义，包含 Consensus 和 ConsensusRelation 数据结构）
