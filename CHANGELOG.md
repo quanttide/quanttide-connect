@@ -36,3 +36,4 @@
 - 修改示例JSON文件，以“团队讨论如何建模沟通管理标准”为语境，以“团队定义了共识等概念”为例子
 - 重写 `data/insight/consensus.md` 文档，基于真实案例更新共识提取洞察
 - 在 `docs/specification/content/consensus.md` 中增加领域事件部分，包括9个事件类型
+- 在 `docs/specification/` 目录下增加 `AGENTS.md`（Agent工作指南）
