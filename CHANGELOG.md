@@ -23,3 +23,6 @@
 - 在 `docs/specification/medium/` 目录下增加 `memo.md`（备忘定义）
 - 在 `docs/specification/medium/` 目录下增加 `email.md`（邮件定义）
 - 在 `docs/specification/content/` 目录下增加 `consensus.md`（共识定义，包含 Consensus 和 ConsensusRelation 数据结构）
+- 修改 `docs/specification/content/consensus.md` 数据结构格式：表格改为列表
+- 修改 `docs/specification/content/consensus.md` 标题：数据结构改为领域模型
+- 在 `docs/specification/content/consensus.md` 中增加 ConsensusChain（共识链）定义
