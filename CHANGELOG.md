@@ -32,3 +32,4 @@
 - 修改 `docs/specification/content/consensus.md` 中路径查询API：改回查询参数方式
 - 合并拓扑排序API到共识图详情API中
 - 将拓扑排序设为共识图详情API的默认行为
+- 为所有API添加使用场景说明
