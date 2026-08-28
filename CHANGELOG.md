@@ -29,3 +29,5 @@
 - 在 `docs/specification/content/consensus.md` 中增加 API 规格，包括 Consensus、ConsensusRelation 和 ConsensusGraph 的 RESTful API
 - 修改 `docs/specification/content/consensus.md` 中 API 路径：去掉 `/api/v1` 前缀
 - 修改 `docs/specification/content/consensus.md` 中标题：API规范改为API规格
+- 修改 `docs/specification/content/consensus.md` 中拓扑排序API：改为查询参数方式
+- 修改 `docs/specification/content/consensus.md` 中路径查询API：简化路径参数格式
