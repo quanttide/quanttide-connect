@@ -40,4 +40,5 @@
 - 发布 `docs/specification` 子模块 v0.1.0 版本
 - 在 `packages/quanttide-connect-toolkit/packages/go/` 目录下增加 `CONTRIBUTING.md`（Go包贡献指南）
 - 在 `packages/quanttide-connect-toolkit/packages/go/` 目录下增加 Go 包代码实现
+- 更新 `docs/specification/medium/message.md`，根据 Go 代码实现总结工程标准
 - 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
