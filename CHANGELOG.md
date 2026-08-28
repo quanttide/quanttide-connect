@@ -43,4 +43,7 @@
 - 更新 `docs/specification/medium/message.md`，根据 Go 代码实现总结工程标准
 - 修改消息模型字段：将 `role` 改为 `type`，语义更准确
 - 更新 `docs/specification/medium/memo.md`，参考 message 定义完善备忘工程标准
+- 修改备忘状态枚举：将 `consensus` 改为 `consensual`（形容词形式）
+- 修改备忘状态枚举：将 `draft` 改为 `initial`，`open` 改为 `active`
+- 移除备忘的消息关联功能（暂时不关联消息）
 - 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
