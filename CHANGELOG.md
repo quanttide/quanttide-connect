@@ -41,4 +41,5 @@
 - 在 `packages/quanttide-connect-toolkit/packages/go/` 目录下增加 `CONTRIBUTING.md`（Go包贡献指南）
 - 在 `packages/quanttide-connect-toolkit/packages/go/` 目录下增加 Go 包代码实现
 - 更新 `docs/specification/medium/message.md`，根据 Go 代码实现总结工程标准
+- 修改消息模型字段：将 `role` 改为 `type`，语义更准确
 - 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
