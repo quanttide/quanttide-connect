@@ -19,3 +19,6 @@
 - 在 `docs/specification/` 目录下增加 `context/index.md`（语境定义）
 - 在 `docs/specification/` 目录下增加 `medium/index.md`（媒介定义）
 - 在 `docs/specification/` 目录下增加 `content/index.md`（内容定义）
+- 在 `docs/specification/medium/` 目录下增加 `message.md`（消息定义）
+- 在 `docs/specification/medium/` 目录下增加 `memo.md`（备忘定义）
+- 在 `docs/specification/medium/` 目录下增加 `email.md`（邮件定义）
