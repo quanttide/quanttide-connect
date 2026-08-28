@@ -50,4 +50,5 @@
 - 在 `packages/quanttide-connect-toolkit/packages/rust/` 目录下初始化 Rust 库
 - 发布 `docs/specification` 子模块 v0.1.1 版本
 - 使用 Go 重写 `apps/qtcloud-connect/src/provider/` 目录
+- 删除 Python 代码，将 Go 作为 provider 的根目录
 - 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
