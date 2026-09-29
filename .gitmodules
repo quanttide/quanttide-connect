@@ -19,9 +19,9 @@
 [submodule "data/insight"]
 	path = data/insight
 	url = https://github.com/quanttide/quanttide-insight-of-communication-management.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-communication-management.git
+[submodule "examples/quanttide-connect-lab"]
+	path = examples/quanttide-connect-lab
+	url = https://github.com/quanttide/quanttide-connect-lab.git
 [submodule "data/context"]
 	path = data/context
 	url = https://github.com/quanttide/quanttide-context-of-communication-management.git

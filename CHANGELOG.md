@@ -10,6 +10,11 @@
 
 ## [Unreleased]
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-connect-lab`（仓 quanttide-laboratory-of-communication-management → quanttide-connect-lab）
+
+
 ### 新增
 
 - 注册子模块：`data/context`（沟通管理语境，quanttide-context-of-communication-management）
