@@ -57,4 +57,4 @@
 - 使用 Go 重写 `apps/qtcloud-connect/src/provider/` 目录
 - 删除 Python 代码，将 Go 作为 provider 的根目录
 - 参考 qtcloud-course 的 provider 组织 qtcloud-connect 的文件夹
-- 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理工具箱，quanttide-connect-toolkit）
+- 注册子模块：`packages/quanttide-connect-toolkit`（沟通管理标准库，quanttide-connect-toolkit）
