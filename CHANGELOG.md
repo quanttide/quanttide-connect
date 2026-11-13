@@ -12,6 +12,7 @@
 
 ### 变更
 
+- 量潮数据沟通管理档案（`quanttide-tech/qtdata/`，index 与订单邮件工作流 email）自 `data/profile` 迁至 `docs/gallery`
 - 实验室子模块改名：`examples/default` → `examples/quanttide-connect-lab`（仓 quanttide-laboratory-of-communication-management → quanttide-connect-lab）
 
 
