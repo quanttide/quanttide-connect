@@ -43,3 +43,6 @@
 [submodule "data/archive"]
 	path = data/archive
 	url = https://github.com/quanttide/quanttide-archive-of-communication-management.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-communication-management.git
