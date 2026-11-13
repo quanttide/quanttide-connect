@@ -17,6 +17,7 @@
 
 ### 新增
 
+- 注册子模块：`docs/gallery`（沟通管理案例集，quanttide-gallery-of-communication-management）
 - 注册子模块：`data/context`（沟通管理语境，quanttide-context-of-communication-management）
 - 注册子模块：`data/roadmap`（沟通管理路线图，quanttide-roadmap-of-communication-management）
 - 注册子模块：`data/brochure`（沟通管理宣传册，quanttide-brochure-of-communication-management）
